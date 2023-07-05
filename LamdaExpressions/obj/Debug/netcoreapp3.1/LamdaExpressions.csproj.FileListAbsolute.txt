@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.exe
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.deps.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.runtimeconfig.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.runtimeconfig.dev.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.dll
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\bin\Debug\netcoreapp3.1\LamdaExpressions.pdb
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.AssemblyInfo.cs
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.dll
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.pdb
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressions\obj\Debug\netcoreapp3.1\LamdaExpressions.genruntimeconfig.cache

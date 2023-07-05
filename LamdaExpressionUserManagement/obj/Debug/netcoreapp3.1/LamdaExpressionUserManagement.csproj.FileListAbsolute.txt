@@ -1,0 +1,14 @@
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.exe
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.deps.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.runtimeconfig.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.runtimeconfig.dev.json
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.dll
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\bin\Debug\netcoreapp3.1\LamdaExpressionUserManagement.pdb
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.csproj.AssemblyReference.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.AssemblyInfoInputs.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.AssemblyInfo.cs
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.csproj.CoreCompileInputs.cache
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.dll
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.pdb
+C:\Users\91951\source\repos\LamdaExpressions\LamdaExpressionUserManagement\obj\Debug\netcoreapp3.1\LamdaExpressionUserManagement.genruntimeconfig.cache
